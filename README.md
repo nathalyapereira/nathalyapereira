@@ -1,8 +1,11 @@
-### Olá, eu sou a Nathalya Pereira👋 <img  align="right" src="https://i.picasion.com/pic92/443fb93da863a3859ae1972c1acb5708.gif" width="150" height="150" border="0" alt="avatar" />
+### <div align="center"> Olá, eu sou a Nathalya Pereira👋 </div>  
+ <br>
+<img  align="left" src="https://i.picasion.com/pic92/443fb93da863a3859ae1972c1acb5708.gif" width="150" height="150" border="0" alt="avatar" /> 
 
 # 
-- 🌱 Estou estudando JavaScript<br>
-- 😄 Pronomes: ela/dela
+🌱 Estou estudando JavaScript<br>
+ 😄 Pronomes: ela/dela
+ <br><br>
 
 # 
 <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=nathalyapereira&theme=jolly&hide_border=false&include_all_commits=true&count_private=true"/>   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyapereira&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
