@@ -3,7 +3,7 @@
 <img  align="left" src="https://i.picasion.com/pic92/443fb93da863a3859ae1972c1acb5708.gif" width="150" height="150" border="0" alt="avatar" /> 
 
 # 
-🌱 Desenvolvedora Web<br><br>
+🌱 Desenvolvedora Web<br>
 💻 Trabalho profissionalmente no Front-end com Vue 3<br>
 📖 Estudando Vue 3 com Nuxt 3<br>
 😄 Pronomes: ela/dela
